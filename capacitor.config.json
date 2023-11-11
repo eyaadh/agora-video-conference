@@ -1,0 +1,8 @@
+{
+  "appId": "com.agora.video.conference",
+  "appName": "agora-video-conference",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
